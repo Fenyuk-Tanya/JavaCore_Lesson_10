@@ -8,8 +8,7 @@ public class Application_2 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Input you line"
-				+ " :");
+		System.out.println("Input you line" + " :");
 		
 		String s = sc.nextLine();
 		
